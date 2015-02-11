@@ -28,11 +28,12 @@ interpretations they enforce.
     experienced CS Education researchers who have volunteered to share their
     perspectives on how to work successfully with your IRB.
 
-  * Common Mistakes - Most of us, at some point, have an IRB encounter that
-    does not go as smoothly as planned. These situations can arise from
-    communication failures, unanticipated obstacles, or legitimate concerns
-    regarding the protection of subjects. These documents identify common
-    problems and offer advice on how to work with your IRB to address them.
+  * Common Mistakes and Obstacles - Most of us, at some point, have an IRB
+    encounter that does not go as smoothly as planned. These situations can
+    arise from communication failures, unanticipated obstacles, or legitimate
+    concerns regarding the protection of subjects. These documents identify
+    common problems and offer advice on how to work with your IRB to address
+    them.
 
   * Sample Protocols - This directory contains sample protocols for a number of
     different types of projects. These protocols may provide insight in how you
